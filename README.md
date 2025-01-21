@@ -2,7 +2,7 @@
 
 💻 Currently working at KPMG Portugal as a Technology Consultant <br>
 👩🏻‍🎓 Integrated Master in Industrial Engineering and Management <br>
-💼 Cloud & DevOps Architect <br>
+💼 DevOps Engineer <br>
 
 <div>
   <a href="https://github.com/diogofrmota">
