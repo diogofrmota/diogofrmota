@@ -1,5 +1,7 @@
 <h1>Hello! I´m Diogo Mota!</h1>
 
+A DevOps Engineer with experience working in multiple domains, including insurance, banking, healthcare and the IT sector. Solid understanding in a wide range of cloud technologies and tools, including AWS and Azure, DevOps tools, integration tools, databases, and version control systems.
+
 💼 DevOps Engineer <br>
 💻 Currently working at Akkodis <br>
 👩🏻‍🎓 Integrated Master in Industrial Engineering and Management <br>
