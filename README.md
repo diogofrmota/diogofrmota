@@ -39,7 +39,7 @@
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
 <img align="left" alt="ELK" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
-<img align="left" alt="Fluent Bit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/fluentbit/icon/color/fluentbit-icon-color.svg"/>
+<img align="left" alt="Fluent Bit" width="30px" style="padding-right:10px;" src="https://symbols.getvecta.com/stencil_25/58_openshift-icon.2e16d0f006.svg"/>
 <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
 <br><br>
 
