@@ -12,7 +12,7 @@
 <h2 color:'pink'>DevOps Engineer Skills:</h2>
 
 <div>
-  <h2>Containerization & Orchestration:</h2>
+  <h3><b>Containerization & Orchestration:</b>b></h3>
   <div style="display: inline-block">
     <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"/>
     <img align="left" alt="OpenShift" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"/>
