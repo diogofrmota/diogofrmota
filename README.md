@@ -12,7 +12,7 @@
 <h2 color:'pink'>DevOps Engineer Skills:</h2>
 
 <div>
-  <h3>🐳 Containerization & Orchestration</h3>
+  <h2>Containerization & Orchestration:</h2>
   <div style="display: inline-block">
     <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"/>
     <img align="left" alt="OpenShift" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"/>
@@ -23,7 +23,7 @@
 </div>
 
 <div>
-  <h3>Programming & Scripting 💻</h3>
+  <h2>Programming & Scripting:</h2>
   <div style="display: inline-block">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <h3>Cloud Platforms ☁️</h3>
+  <h2>Cloud Platforms:</h2>
   <div style="display: inline-block">
     <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
     <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
@@ -42,7 +42,7 @@
 </div>
 
 <div>
-  <h3>CI/CD & DevOps Tools ⚙️</h3>
+  <h2>CI/CD & DevOps Tools:</h2>
   <div style="display: inline-block">
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
@@ -52,7 +52,7 @@
 </div>
 
 <div>
-  <h3>Monitoring & Logging 📊</h3>
+  <h2>Monitoring & Logging:</h2>
   <div style="display: inline-block">
     <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
     <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
