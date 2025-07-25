@@ -1,6 +1,6 @@
 <h1>Hello! I´m Diogo Mota!</h1>
 
-💻 Currently working at KPMG Portugal as a Technology Consultant <br>
+💻 Currently working at Akkodis as a DevOps Engineer <br>
 👩🏻‍🎓 Integrated Master in Industrial Engineering and Management <br>
 💼 DevOps Engineer <br>
 
