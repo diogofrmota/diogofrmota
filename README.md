@@ -1,6 +1,6 @@
 <h1>Hello! I´m Diogo Mota!</h1>
 
-As a DevOps Engineer with experience working across multiple domains, including insurance, banking and healthcare sector, I bring a solid understanding of a wide range of development tools and cloud technologies, including AWS and Azure, DevOps tools, integration tools, databases, and version control systems.
+DevOps Engineer with experience working across multiple domains, including insurance, banking and healthcare sector, I bring a solid understanding of a wide range of development tools and cloud technologies, including AWS and Azure, DevOps tools, integration tools, databases, and version control systems.
 
 My key technical skills include Kubernetes, Red Hat OpenShift, Docker, Linux, Terraform, Ansible, Java, Python, and Bash.
 
