@@ -4,7 +4,7 @@ DevOps Engineer with experience working across multiple domains, including insur
 
 My key technical skills include Kubernetes, Red Hat OpenShift, Docker, Linux, Terraform, Ansible, Java, Python, and Bash.
 
-Beyond professional projects, I actively run a self-hosted infrastructure (Homelab) on a Raspberry Pi 3 B+ with Linux, continuously expanding my technical knowledge.
+Beyond professional projects, I actively maintain and experiment on a self-hosted infrastructure (Homelab) with a 3 node Kubernetes cluster using 3x Raspberry Pi 4B with PoE, continuously expanding my technical knowledge.
 
 💼 DevOps Engineer <br>
 💻 Currently working at Akkodis <br>
