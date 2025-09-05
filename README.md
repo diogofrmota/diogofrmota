@@ -75,10 +75,3 @@ Beyond professional projects, I actively maintain and experiment on a self-hoste
   <a href = "mailto:diogofrmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-<h2 color:'pink'>Some of my Stats:</h2>
-
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogofrmota&show_icons=true&theme=dracula)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=diogofrmota&theme=dracula&border_radius=4.5) -->
-
