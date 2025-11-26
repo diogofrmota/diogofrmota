@@ -1,10 +1,8 @@
 <h1>Hello! I´m Diogo Mota!</h1>
 
-DevOps Engineer with experience working across multiple domains, including insurance, banking and healthcare sector, I bring a solid understanding of a wide range of development tools and cloud technologies, including AWS and Azure, DevOps tools, integration tools, databases, and version control systems.
+I am a dedicated DevOps Engineer with over 3 years of experience in solution architecture and infrastructure deployment. In my current role at Akkodis, I am responsible for managing and architecting cloud and on-premise environments using tools like AWS, Kubernetes, Docker, Python, Java, Terraform, Ansible, Grafana, Prometheus, PostgreSQL and Helm Charts.
 
-My key technical skills include Kubernetes, Red Hat OpenShift, Docker, Linux, Terraform, Ansible, Java, Python, and Bash.
-
-Beyond professional projects, I actively maintain and experiment on a self-hosted infrastructure (Homelab) with a 3 node Kubernetes cluster using 3x Raspberry Pi 4B with PoE, continuously expanding my technical knowledge.
+Beyond my professional work, I actively maintain a hand-built homelab on a 3-node cluster using multiple Raspberry Pis where I recreate a real production environment. This personal project allows me to enhance my skills in automation, network, virtualization and monitoring with tools like ArgoCD, Kubernetes, Helm Charts, NGINX Ingress Controller, MetalLB, Prometheus, Grafana and Cert-Manager.
 
 💼 DevOps Engineer <br>
 💻 Currently working at Akkodis <br>
